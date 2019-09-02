@@ -1,5 +1,5 @@
 name: AvisWatchDog
-version: 0.13
-main: av.is.watchdog.Main
+version: 1.0
+main: studio.avis.watchdog.Main
 author: OrigamiDream
 description: The plugin that is preventing Minecraft users using Hacked Clients
